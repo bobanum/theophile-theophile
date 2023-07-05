@@ -1,5 +1,5 @@
 {
-  "name": "@theophile/theophile",
+  "name": "@bobanum/theophile",
   "version": "0.0.1",
   "description": "A templating module that transforms a web page into a (Powerpoint-like) presentation",
   "main": "index.js",
