@@ -22,5 +22,9 @@
   "homepage": "https://github.com/bobanum/theophile-theophile#readme",
   "license": "MIT",
   "devDependencies": {
+  },
+  "exports": {
+    "./Plugin": "./src/Plugin.js"
   }
+  
 }
